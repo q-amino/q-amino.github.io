@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-03-09_1115",
-    "currentPage": "page2.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -38,7 +38,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.5",
     "siteFonts": [],
-    "uniqCompNum": 22,
+    "uniqCompNum": 24,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png"
   },
@@ -499,7 +499,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-white-outline\" href=\"page1.html\" data-app-placeholder=\"Type Text\">الاسئلة الشائعة</a>\n                    <a class=\"btn btn-white-outline\" href=\"index.html\" data-app-placeholder=\"Type Text\">الصفحة الرئيسية</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-white-outline\" href=\"page2.html\" data-app-placeholder=\"Type Text\">ارض المتاجر</a> <a class=\"btn btn-white-outline\" href=\"page1.html\" data-app-placeholder=\"Type Text\">الاسئلة الشائعة</a>\n                     <a class=\"btn btn-white-outline\" href=\"index.html\" data-app-placeholder=\"Type Text\">الصفحة الرئيسية</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rkGMnm8gln",
           "_anchor": "content8-a",
           "_protectedParams": [],
@@ -1056,11 +1056,11 @@
             "background-color": "@bgColor"
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons=\"\" mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-white-outline\" href=\"page1.html\" data-app-placeholder=\"Type Text\">الاسئلة الشائعة</a>\n                    <a class=\"btn btn-white-outline\" href=\"index.html\" data-app-placeholder=\"Type Text\">الصفحة الرئيسية</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content8-b",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons=\"\" mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-white-outline\" href=\"page2.html\" data-app-placeholder=\"Type Text\">ارض المتاجر</a> <a class=\"btn btn-white-outline\" href=\"page1.html\" data-app-placeholder=\"Type Text\">الاسئلة الشائعة</a>\n                     <a class=\"btn btn-white-outline\" href=\"index.html\" data-app-placeholder=\"Type Text\">الصفحة الرئيسية</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content8-n",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
-          "_cid": "rkGNwoejX3",
+          "_cid": "rltF4d80zr",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
