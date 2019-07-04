@@ -1396,7 +1396,7 @@ body {
 .cid-rnv74RSrZx {
   padding-top: 90px;
   padding-bottom: 15px;
-  background-color: #0ee0b4;
+  background-color: #2e2e2e;
 }
 .cid-rnv74RSrZx .mbr-text,
 .cid-rnv74RSrZx blockquote {
@@ -1406,7 +1406,12 @@ body {
   text-align: center;
 }
 .cid-rnv74RSrZx .mbr-text B {
-  color: #040226;
+  color: #ffffff;
+}
+.cid-rkGMnm8gln {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #22195e;
 }
 .cid-rkcT7TGrro .navbar {
   padding: .5rem 0;
@@ -1813,11 +1818,6 @@ body {
   padding-bottom: 0px;
   background-color: #22195e;
 }
-.cid-rkGMnm8gln {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #22195e;
-}
 .cid-rkcTiLKOCV {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -1845,7 +1845,7 @@ body {
   margin-bottom: 2rem;
 }
 .cid-rkd6tfX9XS .mbr-section-subtitle {
-  color: #767676;
+  color: #ffffff;
 }
 .cid-rkd6tfX9XS a:not([href]):not([tabindex]) {
   color: #fff;
@@ -1882,6 +1882,11 @@ body {
 }
 .cid-rotPuTcROH .mbr-text B {
   color: #040226;
+}
+.cid-rrl9UvKHpX {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #22195e;
 }
 .cid-rkGOgxld00 .navbar {
   padding: .5rem 0;
@@ -2286,11 +2291,6 @@ body {
 .cid-rkei9RQXRL {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #22195e;
-}
-.cid-rrl9UvKHpX {
-  padding-top: 15px;
-  padding-bottom: 15px;
   background-color: #22195e;
 }
 .cid-rkepCLharg {
@@ -2956,13 +2956,13 @@ body {
   padding-bottom: 15px;
   background-color: #22195e;
 }
-.cid-rrl4seseRu {
+.cid-rrl9Q3Y5sT {
   padding-top: 90px;
   padding-bottom: 15px;
   background-color: #22195e;
 }
-.cid-rrl9Q3Y5sT {
-  padding-top: 15px;
+.cid-rrl4seseRu {
+  padding-top: 30px;
   padding-bottom: 15px;
   background-color: #22195e;
 }
