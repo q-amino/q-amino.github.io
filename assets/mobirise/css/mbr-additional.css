@@ -1844,11 +1844,6 @@ body {
   padding-bottom: 15px;
   background-color: #22195e;
 }
-.cid-rBQNVoG7Wv {
-  padding-top: 90px;
-  padding-bottom: 15px;
-  background-color: #22195e;
-}
 .cid-rkGOgxld00 .navbar {
   padding: .5rem 0;
   background: #040226;
@@ -2371,6 +2366,11 @@ body {
 }
 .cid-rkepCLharg .mbr-timeline-date {
   text-align: right;
+}
+.cid-rBQNVoG7Wv {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #22195e;
 }
 .cid-rBtelWM6aq {
   padding-top: 30px;
@@ -3200,13 +3200,8 @@ body {
 .cid-rkcT7TGrro .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rBQOfxFTqR {
-  padding-top: 90px;
-  padding-bottom: 0px;
-  background-color: #22195e;
-}
 .cid-rkd6tfX9XS {
-  padding-top: 15px;
+  padding-top: 90px;
   padding-bottom: 15px;
   background-image: url("../../../assets/images/untitled-design-1280x720.png");
 }
@@ -3231,6 +3226,11 @@ body {
 }
 .cid-rkd6tfX9XS LABEL {
   color: #ffffff;
+}
+.cid-rBQOfxFTqR {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #22195e;
 }
 .cid-rkd86MAX6q {
   padding-top: 75px;
@@ -3637,11 +3637,6 @@ body {
 .cid-rkcT7TGrro .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rBQOs8PvX0 {
-  padding-top: 90px;
-  padding-bottom: 0px;
-  background-color: #22195e;
-}
 .cid-rBthqrx4uY {
   padding-top: 45px;
   padding-bottom: 45px;
@@ -3757,6 +3752,11 @@ body {
 }
 .cid-rBQGmILTJe .user_name {
   color: #ffffff;
+}
+.cid-rBQOs8PvX0 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #22195e;
 }
 .cid-rkd86MAX6q {
   padding-top: 75px;
@@ -4600,11 +4600,6 @@ body {
 .cid-rkcT7TGrro .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rBQOlSTUZ4 {
-  padding-top: 90px;
-  padding-bottom: 0px;
-  background-color: #22195e;
-}
 .cid-rBq1bxr209 {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -4697,6 +4692,11 @@ body {
 }
 .cid-rBrE1D3kEK LABEL {
   color: #ffffff;
+}
+.cid-rBQOlSTUZ4 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #22195e;
 }
 .cid-rkd86MAX6q {
   padding-top: 75px;
