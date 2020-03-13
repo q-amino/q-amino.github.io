@@ -1189,7 +1189,10 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-rP9wGiafXv UL {
-  color: #ffffff;
+  color: #55ed8c;
+}
+.cid-rP9wGiafXv SPAN {
+  color: #55ed8c;
 }
 .cid-rP9uviybmz {
   padding-top: 30px;
@@ -1819,6 +1822,9 @@ section.lazy-placeholder:after {
 }
 .cid-rPJzKEkRj4 UL {
   color: #ffffff;
+}
+.cid-rPJzKEkRj4 SPAN {
+  color: #ff3366;
 }
 .cid-rPnduGCkrz {
   padding-top: 60px;
