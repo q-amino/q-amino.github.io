@@ -47,7 +47,7 @@
     "uniqCompNum": 10,
     "versionPublish": "5.1.4",
     "imageResize": true,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/image-removebg-preview-128x128.png",
     "robotsSwitcher": false,
